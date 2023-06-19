@@ -1,4 +1,15 @@
 # Zombie Arena
+###### Unity first-person-shooter game where the player must fend off hoards of zombies using a variety of realistic weapons.
+###### Based on an assignment from Ohio State course CSE 3541: Computer Game and Animation Techniques.
+##### Author: [Austin Hendricks](https://github.com/austin-hendricks)
+##### Date Completed: April 22, 2023
+
+<br>
+
+[Check it out on YouTube!](https://youtu.be/roXTK8zMuA8)
+<br>
+
+---
 
 ## Table of Contents
 
@@ -11,6 +22,8 @@
 - [Techniques and Authorship](#Auth)
 
 - [Material from Outside Sources](#Ref)
+
+---
 
 ## Requirements and Import Instructions <a name="Req"></a>
 
@@ -37,6 +50,8 @@ immediately click Play again or hit the Escape key to stop the game</li>
   <li>Now, the game is ready to play. Enjoy!</li>
 </ol>
 
+---
+
 ## Introduction and Controls <a name="Intro"></a>
 
 #### Brief Description of Implementation
@@ -58,6 +73,8 @@ weapons, switch between weapons, and collect pickups.
 - Switch to Pistol: 2
 - Switch to Rocket Launcher: 3
 - Exit Game: Escape
+
+---
 
 ## Gameplay and Functionality <a name="Func"></a>
 
@@ -126,6 +143,8 @@ In order to optimize my game, I created a custom MeshCombiner script and
 downloaded a Mesh Saver script so that I could combine all of the elements of my
 environment into just a few distinct meshes and save those meshes to my assets. This
 move brought my frame rate from around 70 fps to over 500 fps on my machine.
+
+---
 
 ## Techniques Used and Authorship <a name="Auth"></a>
 
