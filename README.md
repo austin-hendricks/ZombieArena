@@ -33,22 +33,23 @@
 - Cinemachine (please install from Unity Registry)
 
 #### Import Instructions
-<ol>
-  <li>Install requirements from Unity Registry</li>
-  <li>Allow restart of editor</li>
-  <li>Navigate to Edit → Project Settings → Player → Configuration and set the field
+
+1. Download `ZombieArena.unitypackage` from this repository
+2. Install requirements from Unity Registry
+3. Allow restart of editor
+4. Navigate to Edit → Project Settings → Player → Configuration and set the field
 “Active Input Handling” to “Input System Package (New)” and click Apply to
-restart the editor one more time </li>
-  <li>Import my project via Assets → Import Package </li>
-  <li>Once imported, navigate to Assets → Scenes and open scene titled
-“ZombieArena”</li>
-  <li>On the popup, click to import TMP essentials</li>
-  <li>Navigate to Game view and make the aspect 16:9</li>
-  <li>TMP essentials will not work properly until the game is played at least once. This
+restart the editor one more time
+5. Import `ZombieArena.unitypackage` via Assets → Import Package\
+6. Once imported, navigate to Assets → Scenes and open scene titled
+“ZombieArena”
+7. On the popup, click to import TMP essentials
+8. Navigate to Game view and make the aspect 16:9
+9. TMP essentials will not work properly until the game is played at least once. This
 is due to the nature of the TMP fonts. Please click Play to start the game, and
-immediately click Play again or hit the Escape key to stop the game</li>
-  <li>Now, the game is ready to play. Enjoy!</li>
-</ol>
+immediately click Play again or hit the Escape key to stop the game
+10. Now, the game is ready to play. Enjoy!
+
 
 ---
 
